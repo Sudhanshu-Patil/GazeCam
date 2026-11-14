@@ -1,0 +1,8 @@
+# Windows deps: the versions poetry.lock resolved together, minus pyobjc (macOS) and dlib (needs a C++ build).
+tensorflow==2.19.0
+mediapipe==0.10.32
+numpy==2.1.3
+protobuf==5.29.4
+opencv-python==4.11.0.86
+pyyaml
+pyvirtualcam

@@ -6,6 +6,7 @@ lm_feat.zip
 weights.zip
 
 **/__pycache__/
+.venv/
 
 # User settings database
 user_settings.db
